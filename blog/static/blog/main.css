@@ -1,11 +1,11 @@
 body {
   background: #fafafa;
-  color: #4B0082;
+  color: #333333;
   margin-top: 5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #4B0082;
+  color: #444444;
 }
 
 ul {
@@ -13,15 +13,15 @@ ul {
 }
 
 .bg-steel {
-  background-color: #4B0082;
+  background-color: #5f788a;
 }
 
 .site-header .navbar-nav .nav-link {
-  color: #4B0082;
+  color: #cbd5db;
 }
 
 .site-header .navbar-nav .nav-link:hover {
-  color: #4B0082;
+  color: #ffffff;
 }
 
 .site-header .navbar-nav .nav-link.active {
@@ -29,9 +29,9 @@ ul {
 }
 
 .content-section {
-  background: #4B0082;
+  background: #ffffff;
   padding: 10px 20px;
-  border: 1px solid #4B0082;
+  border: 1px solid #dddddd;
   border-radius: 3px;
   margin-bottom: 20px;
 }
